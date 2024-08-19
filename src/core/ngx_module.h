@@ -226,7 +226,7 @@
 
 struct ngx_module_s {
     ngx_uint_t            ctx_index;
-    ngx_uint_t            index;
+    ngx_uint_t            index;  // 所在数组的序号
 
     char                 *name;
 
@@ -236,9 +236,9 @@ struct ngx_module_s {
     ngx_uint_t            version;
     const char           *signature;
 
-    void                 *ctx;
+    void                 *ctx;  // ngx_event_module_t
     ngx_command_t        *commands;
-    ngx_uint_t            type;
+    ngx_uint_t            type; // NGX_CORE_MODULE NGX_CONF_MODULE NGX_EVENT_MODULE
 
     ngx_int_t           (*init_master)(ngx_log_t *log);
 
