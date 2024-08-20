@@ -1,0 +1,174 @@
+{
+	"files": [
+		{
+			"path": "objs/ngx_modules.c",
+			"bookmarks": [
+				{
+					"line": 58,
+					"column": 14,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "src/core/nginx.c",
+			"bookmarks": [
+				{
+					"line": 196,
+					"column": 11,
+					"label": ""
+				},
+				{
+					"line": 288,
+					"column": 16,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "src/core/ngx_module.h",
+			"bookmarks": [
+				{
+					"line": 226,
+					"column": 14,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "src/os/unix/ngx_process_cycle.c",
+			"bookmarks": [
+				{
+					"line": 698,
+					"column": 8,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "src/core/ngx_cycle.c",
+			"bookmarks": [
+				{
+					"line": 224,
+					"column": 16,
+					"label": ""
+				},
+				{
+					"line": 238,
+					"column": 20,
+					"label": ""
+				},
+				{
+					"line": 302,
+					"column": 28,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "src/event/ngx_event.c",
+			"bookmarks": [
+				{
+					"line": 43,
+					"column": 27,
+					"label": ""
+				},
+				{
+					"line": 689,
+					"column": 27,
+					"label": ""
+				},
+				{
+					"line": 1023,
+					"column": 30,
+					"label": ""
+				},
+				{
+					"line": 1051,
+					"column": 24,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "src/event/ngx_event.h",
+			"bookmarks": [
+				{
+					"line": 452,
+					"column": 10,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "src/event/ngx_event_posted.h",
+			"bookmarks": [
+				{
+					"line": 16,
+					"column": 16,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "src/http/ngx_http_core_module.c",
+			"bookmarks": [
+				{
+					"line": 2939,
+					"column": 34,
+					"label": ""
+				},
+				{
+					"line": 2948,
+					"column": 31,
+					"label": ""
+				},
+				{
+					"line": 3074,
+					"column": 52,
+					"label": ""
+				},
+				{
+					"line": 4672,
+					"column": 36,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "src/http/modules/ngx_http_rewrite_module.c",
+			"bookmarks": [
+				{
+					"line": 569,
+					"column": 40,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "src/event/modules/ngx_epoll_module.c",
+			"bookmarks": [
+				{
+					"line": 178,
+					"column": 16,
+					"label": ""
+				},
+				{
+					"line": 368,
+					"column": 16,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "src/http/ngx_http_request.c",
+			"bookmarks": [
+				{
+					"line": 365,
+					"column": 16,
+					"label": ""
+				}
+			]
+		}
+	]
+}

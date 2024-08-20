@@ -1,0 +1,14 @@
+{
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "Gen: build_install",
+            "command": "${workspaceFolder}/script/gen.sh",
+            "args": [
+                "build_install"
+            ],
+            "hide": true
+        }
+    ],
+    "version": "2.0.0"
+}
